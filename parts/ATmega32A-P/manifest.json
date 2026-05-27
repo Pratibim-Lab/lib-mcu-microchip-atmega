@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega32A-P:ATmega32A-P",
+  "name": "ATmega32A-P",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega32A-P.kicad_sym",
+  "description": "16MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, JTAG, DIP-40",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8155-8-bit-microcontroller-avr-atmega32a_datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "ATmega16L-8P",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega32A-P/",
+  "part_path": "parts/ATmega32A-P",
+  "symbol_file": "parts/ATmega32A-P/ATmega32A-P.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.505Z"
+}

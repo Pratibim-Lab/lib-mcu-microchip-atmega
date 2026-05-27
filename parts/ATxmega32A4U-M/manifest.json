@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATxmega32A4U-M:ATxmega32A4U-M",
+  "name": "ATxmega32A4U-M",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATxmega32A4U-M.kicad_sym",
+  "description": "32MHz, 32kB Flash, 4kB Boot, 4kB SRAM, 1kB EEPROM, JTAG, USB, QFN-44",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8387-8-and16-bit-AVR-Microcontroller-XMEGA-A4U_Datasheet.pdf",
+  "keywords": "AVR 8/16bit Microcontroller XMegaAVR",
+  "footprint": "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm",
+  "extends": "ATxmega16A4U-M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATxmega32A4U-M/",
+  "part_path": "parts/ATxmega32A4U-M",
+  "symbol_file": "parts/ATxmega32A4U-M/ATxmega32A4U-M.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:13.159Z"
+}

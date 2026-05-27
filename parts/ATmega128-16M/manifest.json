@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega128-16M:ATmega128-16M",
+  "name": "ATmega128-16M",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega128-16M.kicad_sym",
+  "description": "16MHz, 128kB Flash, 4kB SRAM, 4kB EEPROM, JTAG, QFN-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc2467.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm",
+  "extends": "ATmega64L-8M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega128-16M/",
+  "part_path": "parts/ATmega128-16M",
+  "symbol_file": "parts/ATmega128-16M/ATmega128-16M.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:11.802Z"
+}

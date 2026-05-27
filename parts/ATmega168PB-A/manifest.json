@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega168PB-A:ATmega168PB-A",
+  "name": "ATmega168PB-A",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega168PB-A.kicad_sym",
+  "description": "20MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, TQFP-32",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/40001909A.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR",
+  "footprint": "Package_QFP:TQFP-32_7x7mm_P0.8mm",
+  "extends": "ATmega48PB-A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega168PB-A/",
+  "part_path": "parts/ATmega168PB-A",
+  "symbol_file": "parts/ATmega168PB-A/ATmega168PB-A.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.027Z"
+}

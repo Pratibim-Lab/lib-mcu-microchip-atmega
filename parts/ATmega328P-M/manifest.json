@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega328P-M:ATmega328P-M",
+  "name": "ATmega328P-M",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega328P-M.kicad_sym",
+  "description": "20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, QFN-32",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR PicoPower",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm",
+  "extends": "ATmega48PV-10M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega328P-M/",
+  "part_path": "parts/ATmega328P-M",
+  "symbol_file": "parts/ATmega328P-M/ATmega328P-M.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.443Z"
+}

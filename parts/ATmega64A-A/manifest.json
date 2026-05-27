@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega64A-A:ATmega64A-A",
+  "name": "ATmega64A-A",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega64A-A.kicad_sym",
+  "description": "16MHz, 64kB Flash, 4kB SRAM, 2kB EEPROM, TQFP-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8160-8-bit-avr-microcontroller-atmega64a-datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR",
+  "footprint": "Package_QFP:TQFP-64_14x14mm_P0.8mm",
+  "extends": "ATmega64L-8A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega64A-A/",
+  "part_path": "parts/ATmega64A-A",
+  "symbol_file": "parts/ATmega64A-A/ATmega64A-A.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.772Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega324A-C:ATmega324A-C",
+  "name": "ATmega324A-C",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega324A-C.kicad_sym",
+  "description": "20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, JTAG, VFBGA-49",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8272-8-bit-AVR-microcontroller-ATmega164A_PA-324A_PA-644A_PA-1284_P_datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR",
+  "footprint": "Package_BGA:VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm",
+  "extends": "ATmega164A-C",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega324A-C/",
+  "part_path": "parts/ATmega324A-C",
+  "symbol_file": "parts/ATmega324A-C/ATmega324A-C.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.282Z"
+}

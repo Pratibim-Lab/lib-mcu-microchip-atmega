@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega64L-8M:ATmega64L-8M",
+  "name": "ATmega64L-8M",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega64L-8M.kicad_sym",
+  "description": "8MHz, 64kB Flash, 4kB SRAM, 2kB EEPROM, QFN-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2490-8-bit-avr-microcontroller-atmega64-l_datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega64L-8M/",
+  "part_path": "parts/ATmega64L-8M",
+  "symbol_file": "parts/ATmega64L-8M/ATmega64L-8M.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.786Z"
+}

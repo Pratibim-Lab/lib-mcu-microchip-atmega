@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega169P-16MC:ATmega169P-16MC",
+  "name": "ATmega169P-16MC",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega169P-16MC.kicad_sym",
+  "description": "16MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, DRQFN-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc8018.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR LCD PicoPower",
+  "footprint": "Package_DFN_QFN:Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm",
+  "extends": "ATmega169PV-8MC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega169P-16MC/",
+  "part_path": "parts/ATmega169P-16MC",
+  "symbol_file": "parts/ATmega169P-16MC/ATmega169P-16MC.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.092Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATxmega64A3U-A:ATxmega64A3U-A",
+  "name": "ATxmega64A3U-A",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATxmega64A3U-A.kicad_sym",
+  "description": "32MHz, 64kB Flash, 4kB Boot, 4kB SRAM, 2kB EEPROM, JTAG, USB, TQFP-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8386-8-and-16-bit-AVR-Microcontroller-ATxmega64A3U-128A3U-192A3U-256A3U_datasheet.pdf",
+  "keywords": "AVR 8/16bit Microcontroller XMegaAVR",
+  "footprint": "Package_QFP:TQFP-64_14x14mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATxmega64A3U-A/",
+  "part_path": "parts/ATxmega64A3U-A",
+  "symbol_file": "parts/ATxmega64A3U-A/ATxmega64A3U-A.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:13.230Z"
+}

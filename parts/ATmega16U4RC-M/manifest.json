@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega16U4RC-M:ATmega16U4RC-M",
+  "name": "ATmega16U4RC-M",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega16U4RC-M.kicad_sym",
+  "description": "16MHz, 16kB Flash, 1.25kB SRAM, 512B EEPROM, USB 2.0, RC Osc, QFN-44",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR USB",
+  "footprint": "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm",
+  "extends": "ATmega16U4-M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega16U4RC-M/",
+  "part_path": "parts/ATmega16U4RC-M",
+  "symbol_file": "parts/ATmega16U4RC-M/ATmega16U4RC-M.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.202Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega165PV-8A:ATmega165PV-8A",
+  "name": "ATmega165PV-8A",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega165PV-8A.kicad_sym",
+  "description": "8MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, TQFP-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc8019.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR PicoPower",
+  "footprint": "Package_QFP:TQFP-64_14x14mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega165PV-8A/",
+  "part_path": "parts/ATmega165PV-8A",
+  "symbol_file": "parts/ATmega165PV-8A/ATmega165PV-8A.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:11.953Z"
+}

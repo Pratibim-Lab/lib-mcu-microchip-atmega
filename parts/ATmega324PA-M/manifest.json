@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega324PA-M:ATmega324PA-M",
+  "name": "ATmega324PA-M",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega324PA-M.kicad_sym",
+  "description": "20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, JTAG, QFN-44",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8272-8-bit-AVR-microcontroller-ATmega164A_PA-324A_PA-644A_PA-1284_P_datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR PicoPower",
+  "footprint": "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm",
+  "extends": "ATmega164A-M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega324PA-M/",
+  "part_path": "parts/ATmega324PA-M",
+  "symbol_file": "parts/ATmega324PA-M/ATmega324PA-M.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.318Z"
+}

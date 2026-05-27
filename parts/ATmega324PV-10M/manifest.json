@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega324PV-10M:ATmega324PV-10M",
+  "name": "ATmega324PV-10M",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega324PV-10M.kicad_sym",
+  "description": "10MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, JTAG, QFN-44",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42743-ATmega324P_Datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR PicoPower",
+  "footprint": "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm",
+  "extends": "ATmega164PV-10M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega324PV-10M/",
+  "part_path": "parts/ATmega324PV-10M",
+  "symbol_file": "parts/ATmega324PV-10M/ATmega324PV-10M.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.347Z"
+}

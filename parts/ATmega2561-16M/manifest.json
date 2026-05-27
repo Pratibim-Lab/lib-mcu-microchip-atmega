@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega2561-16M:ATmega2561-16M",
+  "name": "ATmega2561-16M",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega2561-16M.kicad_sym",
+  "description": "16MHz, 256kB Flash, 8kB SRAM, 4kB EEPROM, JTAG, QFN-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP7.65x7.65mm",
+  "extends": "ATmega1281V-8M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega2561-16M/",
+  "part_path": "parts/ATmega2561-16M",
+  "symbol_file": "parts/ATmega2561-16M/ATmega2561-16M.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.229Z"
+}

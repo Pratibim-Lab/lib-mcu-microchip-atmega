@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATxmega128A1-C7:ATxmega128A1-C7",
+  "name": "ATxmega128A1-C7",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATxmega128A1-C7.kicad_sym",
+  "description": "32MHz, 128kB Flash, 8kB Boot, 8kB SRAM, 2kB EEPROM, JTAG, VFBGA-100",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8067-8-and-16-bit-AVR-Microcontrollers-ATxmega64A1-ATxmega128A1_Datasheet.pdf",
+  "keywords": "AVR 8/16bit Microcontroller XMegaAVR",
+  "footprint": "Package_BGA:VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm",
+  "extends": "ATxmega64A1-C7",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATxmega128A1-C7/",
+  "part_path": "parts/ATxmega128A1-C7",
+  "symbol_file": "parts/ATxmega128A1-C7/ATxmega128A1-C7.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.969Z"
+}

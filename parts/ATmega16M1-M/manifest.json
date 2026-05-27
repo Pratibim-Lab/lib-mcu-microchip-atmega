@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega16M1-M:ATmega16M1-M",
+  "name": "ATmega16M1-M",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega16M1-M.kicad_sym",
+  "description": "16MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, CAN, QFN-32",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8209-8-bit%20AVR%20ATmega16M1-32M1-64M1_Datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_7x7mm_P0.65mm_EP4.65x4.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega16M1-M/",
+  "part_path": "parts/ATmega16M1-M",
+  "symbol_file": "parts/ATmega16M1-M/ATmega16M1-M.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.169Z"
+}

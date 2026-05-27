@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega1284P-P:ATmega1284P-P",
+  "name": "ATmega1284P-P",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega1284P-P.kicad_sym",
+  "description": "20MHz, 128kB Flash, 16kB SRAM, 4kB EEPROM, JTAG, DIP-40",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8272-8-bit-AVR-microcontroller-ATmega164A_PA-324A_PA-644A_PA-1284_P_datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR PicoPower",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "ATmega164A-P",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega1284P-P/",
+  "part_path": "parts/ATmega1284P-P",
+  "symbol_file": "parts/ATmega1284P-P/ATmega1284P-P.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:11.856Z"
+}

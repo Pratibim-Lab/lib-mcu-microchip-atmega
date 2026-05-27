@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATxmega64D4-C:ATxmega64D4-C",
+  "name": "ATxmega64D4-C",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATxmega64D4-C.kicad_sym",
+  "description": "32MHz, 64kB Flash, 4kB Boot, 4kB SRAM, 2kB EEPROM, JTAG, VFBGA-49",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8135-8-and-16-bit-AVR-microcontroller-ATxmega16D4-32D4-64D4-128D4_datasheet.pdf",
+  "keywords": "AVR 8/16bit Microcontroller XMegaAVR",
+  "footprint": "Package_BGA:VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm",
+  "extends": "ATxmega16D4-C",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATxmega64D4-C/",
+  "part_path": "parts/ATxmega64D4-C",
+  "symbol_file": "parts/ATxmega64D4-C/ATxmega64D4-C.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:13.260Z"
+}

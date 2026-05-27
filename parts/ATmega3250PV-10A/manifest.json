@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega3250PV-10A:ATmega3250PV-10A",
+  "name": "ATmega3250PV-10A",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega3250PV-10A.kicad_sym",
+  "description": "10MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, JTAG, TQFP-100",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc8023.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR",
+  "footprint": "Package_QFP:TQFP-100_14x14mm_P0.5mm",
+  "extends": "ATmega3250V-8A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega3250PV-10A/",
+  "part_path": "parts/ATmega3250PV-10A",
+  "symbol_file": "parts/ATmega3250PV-10A/ATmega3250PV-10A.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.393Z"
+}

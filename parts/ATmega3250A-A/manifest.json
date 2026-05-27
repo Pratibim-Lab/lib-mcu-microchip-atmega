@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega3250A-A:ATmega3250A-A",
+  "name": "ATmega3250A-A",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega3250A-A.kicad_sym",
+  "description": "20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, JTAG, TQFP-100",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8285-8-bit-avr-microcontroller-atmega165a_pa_325a_pa_3250a_pa_645a_p_6450a_p_datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR",
+  "footprint": "Package_QFP:TQFP-100_14x14mm_P0.5mm",
+  "extends": "ATmega3250V-8A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega3250A-A/",
+  "part_path": "parts/ATmega3250A-A",
+  "symbol_file": "parts/ATmega3250A-A/ATmega3250A-A.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.381Z"
+}

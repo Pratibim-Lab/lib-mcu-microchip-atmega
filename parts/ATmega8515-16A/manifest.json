@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega8515-16A:ATmega8515-16A",
+  "name": "ATmega8515-16A",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega8515-16A.kicad_sym",
+  "description": "16MHz, 8kB Flash, 512B SRAM, 512B EEPROM, TQFP-44",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc2512.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR",
+  "footprint": "Package_QFP:TQFP-44_10x10mm_P0.8mm",
+  "extends": "ATmega8515L-8A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega8515-16A/",
+  "part_path": "parts/ATmega8515-16A",
+  "symbol_file": "parts/ATmega8515-16A/ATmega8515-16A.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.806Z"
+}

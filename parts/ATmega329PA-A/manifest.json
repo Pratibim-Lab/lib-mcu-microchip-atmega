@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega329PA-A:ATmega329PA-A",
+  "name": "ATmega329PA-A",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega329PA-A.kicad_sym",
+  "description": "20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, TQFP-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8284-8-bit-avr-microcontroller-atmega169a_pa_329a_pa_3290a_pa_649a_p_6490a_p_datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR LCD PicoPower",
+  "footprint": "Package_QFP:TQFP-64_14x14mm_P0.8mm",
+  "extends": "ATmega169PV-8A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega329PA-A/",
+  "part_path": "parts/ATmega329PA-A",
+  "symbol_file": "parts/ATmega329PA-A/ATmega329PA-A.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.487Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega644-20P:ATmega644-20P",
+  "name": "ATmega644-20P",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega644-20P.kicad_sym",
+  "description": "20MHz, 64kB Flash, 4kB SRAM, 2kB EEPROM, JTAG, DIP-40",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc2593.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "ATmega644V-10P",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega644-20P/",
+  "part_path": "parts/ATmega644-20P",
+  "symbol_file": "parts/ATmega644-20P/ATmega644-20P.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:12.640Z"
+}

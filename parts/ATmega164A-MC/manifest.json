@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATmega/ATmega164A-MC:ATmega164A-MC",
+  "name": "ATmega164A-MC",
+  "library": "MCU_Microchip_ATmega",
+  "file": "MCU_Microchip_ATmega.kicad_symdir/ATmega164A-MC.kicad_sym",
+  "description": "20MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, JTAG, DRQFN-44",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8272-8-bit-AVR-microcontroller-ATmega164A_PA-324A_PA-644A_PA-1284_P_datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR",
+  "footprint": "Package_DFN_QFN:Microchip_DRQFN-44-1EP_5x5mm_P0.7mm_EP2.65x2.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-atmega@master/parts/ATmega164A-MC/",
+  "part_path": "parts/ATmega164A-MC",
+  "symbol_file": "parts/ATmega164A-MC/ATmega164A-MC.kicad_sym",
+  "source_library": "MCU_Microchip_ATmega.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:11.894Z"
+}
